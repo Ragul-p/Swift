@@ -1,4 +1,4 @@
-Swift Data Types:-
+//Swift Data Types:-
 
 var letter: Character = "s"
 
