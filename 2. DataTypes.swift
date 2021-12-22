@@ -1,13 +1,13 @@
 //Swift Data Types:-
 
-var letter: Character = "s"
+var initial: Character = "P"
 
-var language: String = "swift"
+var name: String = "Ragul"
 
-var number: Int = 3
+var age: Int = 21
 
-let passCheck: Bool = true
+let indian: Bool = true
 
-let piValue: Float = 3.14
+let height: Float = 6.4
 
-let latitude: Double = 27.7007697012432
+let height1: Double = 6.4
